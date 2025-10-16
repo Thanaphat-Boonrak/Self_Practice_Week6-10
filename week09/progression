@@ -1,0 +1,1 @@
+ผมได้เพิ่มปุม clear ทุกๆ qoute โดยการอ้่างอิงจาก id ของปุ่ม โดยวิธีการคือ ตั้งค่าใน value qoute ให้เป็น empty strig และ ตั้ง section ที่มี id qouteList ทำเป็น ว่างป่าว
